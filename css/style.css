@@ -1,0 +1,27 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 101%;
+    background: silver;
+    height: 50px;
+}
+
+.logo{
+    
+    width: 70px;
+    height: 65px;
+    margin: 0;
+    margin-left: 0;
+}
+.ssilka{
+    display: inline;
+    margin-right: auto;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+}
+.topcast{
+    display: inline;
+    margin-right: auto;
+    padding: 5px;
+}
